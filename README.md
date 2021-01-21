@@ -1,6 +1,6 @@
 # En-Señas MX
 
-![](./Imagenes/picture29.png)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/picture29.png)
 
 En-Señas MX: Sistema de Enseñanza-Aprendizaje de la Lengua de Señas Mexicana
 
@@ -247,23 +247,23 @@ Su funcionamiento consta de la recepción de los datos del dispositivo electrón
 
 ## 4.3. Pantallas de la aplicación
 
-![](.\Imagenes\Picture1.png)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture1.png)
 
 Imagen 1. Pantalla de inicio de sesión 
 
-![](.\Imagenes\Picture2.png)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture2.png)
 
 Imagen 2. Pantalla de registro de un nuevo usuario
 
-![](.\Imagenes\Picture3.png)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture3.png)
 
 Imagen 3. Pantalla del Menú con un único curso (“Abecedario”) disponible debido al nivel del usuario “ExpoCiencias”
 
-![](.\Imagenes\Picture4.png)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture4.png)
 
 Imagen 4. Letra "A" en Lengua de Señas Mexicana (Molteni, A. 2016)
 
-![](.\Imagenes\Picture5.png)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture5.png)
 
 Imagen 5. Pantalla de práctica de la lección "Abecedario" (Molteni, A. 2016)
 
@@ -272,75 +272,75 @@ Imagen 5. Pantalla de práctica de la lección "Abecedario" (Molteni, A. 2016)
 Una vez probado el sistema con usuarios reales, se obtuvieron los siguientes resultados:
 De una muestra de 100 personas encuestadas, el 25% no ha oído hablar sobre la Lengua de Señas Mexicana, mientras que el 91% del total no la interpreta.
 
-![](.\Imagenes\Picture6.png)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture6.png)
 
 Gráfica 1. Resultados obtenidos de encuesta
 
-![](.\Imagenes\Picture7.png)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture7.png)
 
 Gráfica 2. Resultados obtenidos de encuesta
 Durante la primera etapa del experimento, el 37% tuvo dificultades leves para comunicarse con su compañero, el 30% tuvo mayor dificultad y al 21% le fue muy difícil establecer una comunicación efectiva.
 
-![](.\Imagenes\Picture8.png)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture8.png)
 
 Gráfica 3. Resultados obtenidos de encuesta. El color azul indica el porcentaje de personas que ingresaron esa respuesta en la escala de Likert donde el 5 es muy difícil
 
 Acerca del sentimiento sobre encontrarse en una situación de comunicarse a través de señas y no poder ser entendidos, el 33% de los participantes valoró, en una escala Likert del 1-5 (donde el 1 es nada mal y el 5 es muy mal), con un número 4; mientras que el 52% dijo que se sentiría muy mal, lo que equivale al número 5.
 
-![](.\Imagenes\Picture9.png)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture9.png)
 
 Gráfica 4. Resultados obtenidos de encuesta
 
 Un 62% no pudo transmitir el mensaje a la otra persona de forma correcta.
 
-![](.\Imagenes\Picture10.png)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture10.png)
 
 Gráfica 5. Resultados obtenidos de encuesta
 El 50% dijo tener más complicaciones para comunicarse y el otro 50% para entender.
 
-![](.\Imagenes\Picture11.png)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture11.png)
 
 Gráfica 6. Resultados obtenidos de encuesta
 Un 98% considera importante aprender LSM.
 
-![](.\Imagenes\Picture12.png)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture12.png)
 
 Gráfica 7. Resultados obtenidos de encuesta
 
 En la segunda etapa se registraron 72 resultados. El 97% contestó de forma correcta, después de ver la demostración en imágenes del software, la forma de deletrear la palabra “Hola” en LSM. El 90% logró deletrear la palabra “Oso” en forma correcta
 
-![](.\Imagenes\Picture13.png)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture13.png)
 
 Gráfica 8. Resultados obtenidos de encuesta
 
-![](.\Imagenes\Picture14.png)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture14.png)
 
 Gráfica 9. Resultados obtenidos de encuesta
 
 El 43.1% concuerda en que, después de observar la demostración en imágenes del software, resolver las preguntas fue muy sencillo. Sólo el 5.6% consideró difícil indicando el número 5 en la escala de Likert.
 
-![](.\Imagenes\Picture15.png)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture15.png)
 
 Gráfica 10. Resultados obtenidos de encuesta
 Un 76% fue capaz de transmitir su mensaje de forma correcta a la otra persona en comparación a la primera etapa, donde el 60.2% no lo logró. El 49% indicó que se le hizo más complicado entender que comunicarse.
 
-![](.\Imagenes\Picture16.png)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture16.png)
 
 Gráfica 11. Resultados obtenidos de encuesta
 
-![](.\Imagenes\Picture17.png)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture17.png)
 
 Gráfica 12. Resultados obtenidos de encuesta
 
 El 92% del total indicó que cree necesario el poner más énfasis en una educación inclusiva.
 
-![](.\Imagenes\Picture18.png)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture18.png)
 
 Gráfica 13. Resultados obtenidos de encuesta
 
 Un 82% asegura que le gustaría poder utilizar el software En-Señas MX para seguir aprendiendo la LSM, mientras que el 17% remarcó la respuesta “tal vez”. El 1% de los encuestados señaló no querer hacer uso de En-Señas MX.
 
-![](.\Imagenes\Picture19.png)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture19.png)
 
 Gráfica 14. Resultados obtenidos de encuesta
 
@@ -350,7 +350,7 @@ El plan de negocios de En-Señas MX se divide en dos sentidos:
 - Distribución libre del software: Esta versión comprende los contenidos temáticos completos del proyecto orientado hacia la educación pública y gratuita a través de la red, por lo cual no tiene la herramienta del guante ni está enfocada a una certificación de la LSM. 
 - Distribución de pago por el software: Esta versión además de comprender todos los contenidos temáticos del proyecto, está enfocada hacia su uso por empresas, instituciones de gobierno o escuelas públicas o privadas que pretendan difundir, capacitar, o enseñar la LSM. Para esta versión, se considera la siguiente tabla de costos aproximados:
 
-![](.\Imagenes\Picture20.jpg)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture20.jpg)
 
 Tabla 1. Costos totales del Software versión premium
 
@@ -421,45 +421,45 @@ Sánchez Maldonado, M. (2016). César, el maestro de lenguaje de señas al que v
 
 En el anexo 1 se muestran los resultados de la investigación inicial.
 
-![](.\Imagenes\Picture21.png)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture21.png)
 
 Anexo 1. Resultados de la investigación inicial.
 
 En el anexo 2 se muestra el boceto inicial a papel del software visual. 
 
-![](.\Imagenes\Picture22.jpg)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture22.jpg)
 
 Anexo 2. Primer boceto de diseño de En-Señas MX
 En el siguiente anexo se muestra un conjunto de imágenes en donde diversos usuarios realizan el experimento y prueban el funcionamiento del Software beta.
  
 En el siguiente anexo se muestra un conjunto de imágenes en donde diversos usuarios realizan el experimento y prueban el funcionamiento del Software beta.
 
-![](.\Imagenes\Picture23.jpg)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture23.jpg)
 
 Anexo 3. Voluntario realizando el experimento
 
-![](.\Imagenes\Picture24.jpg)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture24.jpg)
 
 Anexo 4. Usuario usando el Software beta.
 
-![](.\Imagenes\Picture25.jpg)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture25.jpg)
 
 Anexo 5. Usuario usando el Software beta
 
-![](.\Imagenes\Picture26.jpg)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture26.jpg)
 
 Anexo 6. Usuario usando el Software beta
 
 El anexo 7 muestra una imagen de una parte del diseño del guante, mientras que el anexo 8 muestra el boceto inicial de algunas entidades de la base de datos.
 
-![](.\Imagenes\Picture27.jpg)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture27.jpg)
 
 Anexo 7. Posible posición del sensor en el guante
 
-![](.\Imagenes\Picture28.jpg)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture28.jpg)
 
 Anexo 8. Boceto inicial de entidades de la base de datos
 
 Los colores visuales que conforman En-Señas MX son elegidos con base a la psicología del color que indica que el azul representa inteligencia y tecnología, entre otras muchas cosas, mientras que el color naranja se usa debido a su representación de sociabilidad y amarillo por el entendimiento y la sabiduría.
 
-![](.\Imagenes\Picture29.png)
+![](https://raw.githubusercontent.com/LeonelYLuego/En-Se-as-MX/master/Imagenes/Picture29.png)
